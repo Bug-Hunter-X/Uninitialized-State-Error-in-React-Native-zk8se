@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native: accessing state variables before they've been initialized.  The `uninitializedStateBug.js` file shows the error, while `uninitializedStateSolution.js` provides a solution using optional chaining and asynchronous operations.
